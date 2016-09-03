@@ -1,0 +1,11 @@
+
+Instrucciones para ejecutar algoritmos paralelos
+
+1) Instalar MPI
+2) Disponer de un cluster con varios nodos, ver documnetación cluster para implementar uno
+3) En caso de no tener un Cluster, se podra ejecutar en los procesadores de un pc, solo es necesario tener MPI para realizar esto
+4) En la linea 397 se colaca la función que se desea cargar
+5) La funciones que se utilizan, son las que se encuentran de la linea 194 en adelante 
+6) Para compilar, se debe dirigir a la carpeta donde se encuentra algoritmos_paralelo.py (en consola) y ejecutar el comando:
+	 
+	 mpirun -np 4 python algoritmos_paralelos.py  //donde el numero 4 es la cantidad de procesadores a utilizar , este puede variar

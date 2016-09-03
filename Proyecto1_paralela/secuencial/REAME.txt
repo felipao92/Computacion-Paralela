@@ -1,0 +1,27 @@
+﻿1)Programa ejecutable en diferentes plataformas centrado en ubuntu 14.04
+	Creado por :
+	Gabriel sanhueza
+	Felipe abarca 
+	Nicolas soto
+	Elias caceres
+
+2)Librerias necesarias para ejecutar 
+
+	TKinter
+	PIL
+	Numpy
+	Scipy
+	matplotlib
+	tkFileDialog
+
+3)Se utilizo el libro Tkinter.pdf para el desarrollo de la interfaz grafica
+
+	Para windows
+	ejecutar desde IDE recomendacion Pycharm
+
+4)Para linux
+	Se puede ejecutar desde consola pero se recomienda uso de un IDE como Pycharm
+
+5)En caso de ejecutar desde consola Linux, dirigirse a la carpeta donde se encuentre el archivo examen.py y ejecutar en consola el comando:
+
+	python examen.py
